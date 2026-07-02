@@ -1,6 +1,11 @@
+/**
+ * Task: Two Sum Problem - Find indices of two numbers that add up to a target (Optimal).
+ * Time Complexity: O(N) where N is the length of the array (assuming HashMap O(1) lookup).
+ * Space Complexity: O(N) for the HashMap storing up to N elements.
+ */
 import java.util.HashMap;
 import java.util.Arrays;
-public class TwoSum {
+public class TwoSumOptimal {
     public static void main(String[] args){
         int[] arr = {1,7,5,10,2};
         int target = 9;

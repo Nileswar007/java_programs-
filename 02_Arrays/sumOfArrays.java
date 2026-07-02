@@ -1,3 +1,8 @@
+/**
+ * Task: Calculate the sum of all elements in an array.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as only a sum variable is used.
+ */
 public class sumOfArrays {
     public static void main(String[] args) {
         int[] arr = {1,2,3,4,5};

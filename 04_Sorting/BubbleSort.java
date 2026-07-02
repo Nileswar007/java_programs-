@@ -1,3 +1,8 @@
+/**
+ * Task: Sort an array using the Bubble Sort algorithm.
+ * Time Complexity: O(N^2) in the worst and average cases.
+ * Space Complexity: O(1) as sorting is done in place.
+ */
 public class BubbleSort
 {
     public static void main(String[] args) {

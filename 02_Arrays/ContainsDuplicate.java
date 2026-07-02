@@ -1,3 +1,8 @@
+/**
+ * Task: Check if an array contains any duplicate elements (Brute Force).
+ * Time Complexity: O(N^2) because of the nested loops comparing each element.
+ * Space Complexity: O(1) as no extra space is used.
+ */
 public class ContainsDuplicate {
     public static void main(String[] args){
         int[] arr = {9,2,3,4,1,9};

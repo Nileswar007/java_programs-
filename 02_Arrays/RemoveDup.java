@@ -1,3 +1,8 @@
+/**
+ * Task: Remove duplicates from a sorted array.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as the array is modified in place.
+ */
 public class RemoveDup {
     public static void main(String[] args){
         int arr[] = {1,1,2,2,3,3};

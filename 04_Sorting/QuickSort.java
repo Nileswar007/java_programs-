@@ -1,3 +1,8 @@
+/**
+ * Task: Sort an array using the Quick Sort algorithm.
+ * Time Complexity: O(N log N) on average, O(N^2) in the worst case.
+ * Space Complexity: O(log N) for the recursive call stack space.
+ */
 public class QuickSort {
 
     public static void QuickSort(int[] arr,int low,int high){

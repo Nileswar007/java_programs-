@@ -1,3 +1,8 @@
+/**
+ * Task: Perform Binary Search to find a target element in a sorted array.
+ * Time Complexity: O(log N) where N is the length of the array.
+ * Space Complexity: O(1) as it is implemented iteratively.
+ */
 public class BinarySearch {
     public static void main(String[] args) {
         int nums[] = {5,7,9,11,17};

@@ -1,3 +1,8 @@
+/**
+ * Task: Check if a given array is sorted in ascending order.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as no extra space is used.
+ */
 public class CheckSorted {
     public static void main(String[] args) {
         int arr[] = {1,3,4,5};

@@ -1,3 +1,8 @@
+/**
+ * Task: Move all zeros to the end of the array (using extra space).
+ * Time Complexity: O(N) where N is the number of elements.
+ * Space Complexity: O(N) because a new result array is created.
+ */
 import java.util.Arrays;
 public class MoveZero {
     public static void main(String[] args){

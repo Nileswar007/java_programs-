@@ -1,4 +1,8 @@
-//return the indices of two sum from an array
+/**
+ * Task: Two Sum Problem - Find indices of two numbers that add up to a target (Brute Force).
+ * Time Complexity: O(N^2) where N is the length of the array, due to nested loops.
+ * Space Complexity: O(1) as no extra space is used.
+ */
 import java.util.Arrays;
 public class TwoSum {
     public static void main (String[] args){

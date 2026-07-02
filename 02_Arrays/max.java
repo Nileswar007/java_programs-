@@ -1,3 +1,8 @@
+/**
+ * Task: Find the maximum element in an array.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as only a single variable is used to keep track.
+ */
 public class max{
 public static void main(String[] args){
     int arr[] = {3,7,2,9,4};

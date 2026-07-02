@@ -1,5 +1,10 @@
+/**
+ * Task: Move all zeros to the end of the array (another approach).
+ * Time Complexity: O(N) as we iterate through the array a couple of times.
+ * Space Complexity: O(N) because a temporary array is used.
+ */
 import java.util.Arrays;
-public class MoveZero {
+public class MoveZeroAlternate {
     public static void main(String[] args){
         int[] arr = {1,0,2,3,2,0,0,4,5,1};
         moveZero(arr);

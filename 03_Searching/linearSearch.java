@@ -1,3 +1,8 @@
+/**
+ * Task: Perform Linear Search to find a target element in an array.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as no extra space is used.
+ */
 public class linearSearch {
     public static void main(String[] args) {
         int nums[] = {5,7,9,11,17};

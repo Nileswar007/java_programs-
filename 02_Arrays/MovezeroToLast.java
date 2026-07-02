@@ -1,3 +1,8 @@
+/**
+ * Task: Move all zeros to the end of the array (Optimal - In Place).
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) as swapping is done in place.
+ */
 import java.util.Arrays;
 public class MovezeroToLast {
     public static void main(String[] args) {

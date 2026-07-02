@@ -1,4 +1,8 @@
-//left rotate by one place
+/**
+ * Task: Left rotate an array by one place.
+ * Time Complexity: O(N) where N is the length of the array.
+ * Space Complexity: O(1) because we shift elements in place.
+ */
 public class LeftRotate {
     public static void main(String[] args) {
         int[] arr = {2,3};

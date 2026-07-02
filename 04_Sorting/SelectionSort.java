@@ -1,3 +1,8 @@
+/**
+ * Task: Sort an array using the Selection Sort algorithm.
+ * Time Complexity: O(N^2) in all cases as it finds the minimum in the remaining array.
+ * Space Complexity: O(1) as sorting is done in place.
+ */
 public class SelectionSort {
     public static void main(String[] args) {
         int nums[] = {8,3,5,1,6};
