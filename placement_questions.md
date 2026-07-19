@@ -22,7 +22,7 @@ If your goal is to skip the 3-4 LPA mass recruitment offers (like TCS Ninja / Co
 ### 🔢 Math & Logic Basics
 - [ ] **Prime Numbers**: Check for prime in $O(\sqrt{N})$, Sieve of Eratosthenes.
 - [ ] **Fibonacci Series**: Recursive, iterative, and space-optimized versions.
-- [ ] **GCD & LCM**: Euclidean algorithm.
+- [x] **GCD & LCM**: Euclidean algorithm.
 - [ ] **Number Conversions**: Decimal to Binary/Octal/Hexadecimal and vice-versa.
 - [ ] **Armstrong & Palindrome Numbers**: Digit extraction techniques.
 
@@ -116,3 +116,4 @@ If your goal is to skip the 3-4 LPA mass recruitment offers (like TCS Ninja / Co
 ---
 
 *“Consistency beats intensity. Keep pushing your commits and solving problems!”*
+
